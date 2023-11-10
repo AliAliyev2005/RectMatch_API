@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b0b2b7b-06a1-4954-bd08-6b730e7dd8db": {
+      "ProjectGuid": "7b0b2b7b-06a1-4954-bd08-6b730e7dd8db",
+      "DisplayName": "RectMatch_API.WebApi",
+      "ColorIndex": 0
+    },
+    "9b54162c-e0bc-47e1-81e1-00f80ce918e2": {
+      "ProjectGuid": "9b54162c-e0bc-47e1-81e1-00f80ce918e2",
+      "DisplayName": "RectMatch_API.Domain",
+      "ColorIndex": 1
+    },
+    "52d9ea7a-5f17-4b40-8cfd-ce75c135a372": {
+      "ProjectGuid": "52d9ea7a-5f17-4b40-8cfd-ce75c135a372",
+      "DisplayName": "RectMatch_API.Application",
+      "ColorIndex": 2
+    },
+    "d342200b-8e8c-46ab-a42a-cca0dcba2b1b": {
+      "ProjectGuid": "d342200b-8e8c-46ab-a42a-cca0dcba2b1b",
+      "DisplayName": "RectMatch_API.Infrastructure",
+      "ColorIndex": 3
+    },
+    "def9e1d3-fd3f-490e-8c03-b384e55cee83": {
+      "ProjectGuid": "def9e1d3-fd3f-490e-8c03-b384e55cee83",
+      "DisplayName": "RectMatch_API.Persistence",
+      "ColorIndex": 4
+    },
+    "21cc42f0-16ef-4432-8a4d-aca38c94f135": {
+      "ProjectGuid": "21cc42f0-16ef-4432-8a4d-aca38c94f135",
+      "DisplayName": "RectMatch_API.Domain",
+      "ColorIndex": 5
+    },
+    "cdd630eb-a25b-4a61-b11a-65c201852a3c": {
+      "ProjectGuid": "cdd630eb-a25b-4a61-b11a-65c201852a3c",
+      "DisplayName": "RectMatch_API.Application",
+      "ColorIndex": 6
+    },
+    "70dc3ea9-b853-45d4-88db-02bd232c8396": {
+      "ProjectGuid": "70dc3ea9-b853-45d4-88db-02bd232c8396",
+      "DisplayName": "RectMatch_API.WebApi",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}

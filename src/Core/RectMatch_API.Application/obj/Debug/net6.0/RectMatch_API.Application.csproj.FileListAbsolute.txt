@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\bin\Debug\net6.0\RectMatch_API.Application.deps.json
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\bin\Debug\net6.0\RectMatch_API.Application.dll
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\bin\Debug\net6.0\ref\RectMatch_API.Application.dll
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\bin\Debug\net6.0\RectMatch_API.Application.pdb
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\obj\Debug\net6.0\RectMatch_API.Application.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\obj\Debug\net6.0\RectMatch_API.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\obj\Debug\net6.0\RectMatch_API.Application.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\obj\Debug\net6.0\RectMatch_API.Application.AssemblyInfo.cs
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\obj\Debug\net6.0\RectMatch_API.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\obj\Debug\net6.0\RectMatch_API.Application.dll
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\obj\Debug\net6.0\ref\RectMatch_API.Application.dll
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\obj\Debug\net6.0\RectMatch_API.Application.pdb
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\bin\Debug\net6.0\RectMatch_API.Domain.dll
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\bin\Debug\net6.0\RectMatch_API.Domain.pdb
+C:\Users\HP\source\repos\RectMatch_API\src\Core\RectMatch_API.Application\obj\Debug\net6.0\RectMatch_API.Application.csproj.CopyComplete

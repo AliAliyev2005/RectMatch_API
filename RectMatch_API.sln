@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{42231923-E5C0-4650-ABAB-0FF685DB9FBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{A92804D9-8DD2-43CC-B3FA-A2268267F930}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{7AF34473-BC49-4EE3-A626-C94782E614B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectMatch_API.Persistence", "src\Infrastructure\RectMatch_API.Persistence\RectMatch_API.Persistence.csproj", "{DEF9E1D3-FD3F-490E-8C03-B384E55CEE83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{7EAE599E-78D3-494D-9091-05D42FC21110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectMatch_API.WebApi", "src\WebApi\RectMatch_API.WebApi\RectMatch_API.WebApi.csproj", "{70DC3EA9-B853-45D4-88DB-02BD232C8396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectMatch_API.Domain", "src\Core\RectMatch_API.Domain\RectMatch_API.Domain.csproj", "{21CC42F0-16EF-4432-8A4D-ACA38C94F135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectMatch_API.Application", "src\Core\RectMatch_API.Application\RectMatch_API.Application.csproj", "{CDD630EB-A25B-4A61-B11A-65C201852A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF9E1D3-FD3F-490E-8C03-B384E55CEE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF9E1D3-FD3F-490E-8C03-B384E55CEE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF9E1D3-FD3F-490E-8C03-B384E55CEE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF9E1D3-FD3F-490E-8C03-B384E55CEE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70DC3EA9-B853-45D4-88DB-02BD232C8396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DC3EA9-B853-45D4-88DB-02BD232C8396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DC3EA9-B853-45D4-88DB-02BD232C8396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DC3EA9-B853-45D4-88DB-02BD232C8396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CC42F0-16EF-4432-8A4D-ACA38C94F135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CC42F0-16EF-4432-8A4D-ACA38C94F135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CC42F0-16EF-4432-8A4D-ACA38C94F135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CC42F0-16EF-4432-8A4D-ACA38C94F135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD630EB-A25B-4A61-B11A-65C201852A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD630EB-A25B-4A61-B11A-65C201852A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD630EB-A25B-4A61-B11A-65C201852A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD630EB-A25B-4A61-B11A-65C201852A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A92804D9-8DD2-43CC-B3FA-A2268267F930} = {42231923-E5C0-4650-ABAB-0FF685DB9FBE}
+		{7AF34473-BC49-4EE3-A626-C94782E614B4} = {42231923-E5C0-4650-ABAB-0FF685DB9FBE}
+		{DEF9E1D3-FD3F-490E-8C03-B384E55CEE83} = {7AF34473-BC49-4EE3-A626-C94782E614B4}
+		{7EAE599E-78D3-494D-9091-05D42FC21110} = {42231923-E5C0-4650-ABAB-0FF685DB9FBE}
+		{70DC3EA9-B853-45D4-88DB-02BD232C8396} = {7EAE599E-78D3-494D-9091-05D42FC21110}
+		{21CC42F0-16EF-4432-8A4D-ACA38C94F135} = {A92804D9-8DD2-43CC-B3FA-A2268267F930}
+		{CDD630EB-A25B-4A61-B11A-65C201852A3C} = {A92804D9-8DD2-43CC-B3FA-A2268267F930}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01E31CF1-3468-4F09-B352-D3BF2824E3B2}
+	EndGlobalSection
+EndGlobal

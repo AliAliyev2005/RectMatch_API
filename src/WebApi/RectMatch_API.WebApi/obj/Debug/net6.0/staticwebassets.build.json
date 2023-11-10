@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0rgL8FVe7zatIRQ6vMKzDnXcZokHro6tid+/0aaho1Q=",
+  "Source": "RectMatch_API.WebApi",
+  "BasePath": "_content/RectMatch_API.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
